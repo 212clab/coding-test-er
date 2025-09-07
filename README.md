@@ -1,11 +1,3 @@
-# Algorithm Study
-```
-This is a collaborative project for coding test practice. 
-The _212c/ folder contains Python solutions, 
-_pqr4579/ contains JavaScript solutions. 
-Shared problem data is stored in shared/.
-```
-
 # Project Structure
 ```
 algorithm-study/
