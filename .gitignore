@@ -1,0 +1,15 @@
+# 파이썬 캐시 파일
+pycache/ *.pyc *.pyo *.pyd
+
+# 로그 파일
+logs/
+
+# 가상환경
+.venv/ venv/
+
+# IDE 및 편집기 파일
+.vscode/ .idea/ *.sublime-project *.sublime-workspace
+
+# 기타 임시 파일
+*.log *.cache *.bak *.swp
+

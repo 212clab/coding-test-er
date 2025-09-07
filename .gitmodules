@@ -1,0 +1,3 @@
+[submodule "pqr4579/legacy/algorithm"]
+	path = pqr4579/legacy/algorithm
+	url = https://github.com/pqr4579/algorithm.git
